@@ -1,0 +1,24 @@
+<div class="media border p-3 h-100">
+        <a name=""></a>
+        <img src="kepek/" height="200px" alt="" title="" class="kep" align=left>
+        <img src="kepek/" height="200px" alt="" title="" class="kep" align=right>
+        <div class="media-body">
+          <h2><center><b></b></center></h2>
+          <p>
+            
+          </p>
+          <h4>Története</h4>
+          <p>
+            
+          </p>
+          <h4>Jellemzői</h4>
+          <p>
+            
+          </p>
+          <h4>Hasznosítás</h4>
+          <p>
+            
+          </p>
+          <a href="">Forrás</a>
+         </div>
+      </div>
