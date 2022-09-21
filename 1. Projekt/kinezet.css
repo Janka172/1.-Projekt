@@ -165,7 +165,7 @@ h5{
   }
   h4{
     font-size: 150%;
-  
+    text-align: center;
       animation-name: cim;
       animation-duration: 15s;
       animation-iteration-count: infinite;
