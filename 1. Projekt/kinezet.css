@@ -133,7 +133,8 @@ h5{
 }
 
 .lf{
-    width: 20%;
+    width: 15%;
+    border: rgb(0, 0, 0) solid 3px;
 }
 
 @font-face {
@@ -169,7 +170,7 @@ h5{
   }
   h4{
     font-size: 150%;
-    text-align: center;
+    text-align: left;
       animation-name: cim;
       animation-duration: 15s;
       animation-iteration-count: infinite;
