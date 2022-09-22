@@ -132,6 +132,10 @@ h5{
     font-size: large;
 }
 
+.lf{
+    width: 20%;
+}
+
 @font-face {
     font-family: 'betutipus';
     src: url('ARLRDBD.ttf');
